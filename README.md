@@ -41,7 +41,9 @@
         </ul>
         <p> About Art Content Here </p>
         <img scr="image_1.jpg">
-        </body>
-        
+        <h2>"heading"</h2>
+  <img scr="image.jpg" alt="paint" width="500" height="333">
+    </body>
     
   </Style>
+  </html>
